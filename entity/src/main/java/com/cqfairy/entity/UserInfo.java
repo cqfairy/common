@@ -69,7 +69,6 @@ public class UserInfo {
 
     public enum Sex implements EnumCodeSupper {
         man("N","男"),woman("V","女");
-
         private String code ;
 
         private String text ;
